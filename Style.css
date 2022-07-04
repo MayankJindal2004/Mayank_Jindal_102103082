@@ -1,0 +1,51 @@
+
+form{
+    margin-top: 100px;   
+ 
+}
+.outter{
+    height: 700px;
+    width:500px;
+    border: 2px solid black;
+    background-color:brown;
+     
+
+}
+body{
+background-color: aquamarine;
+}
+.right
+{
+    height: 50px;
+    width: 250px;
+    float: left;
+    text-align: left;
+    font-family: cursive;
+   
+}
+.left
+{
+    height: 50px;
+    width: 250px;
+    float:left;
+   color: yellow;
+   font-family: cursive;
+   
+}
+.hello
+{
+    height: 50px;
+    width: 500px;
+    float:left;
+    font-family: cursive;
+}
+.head{
+    color: yellow;
+    font-family: cursive;
+}
+.marq
+{
+    height: 50px;
+   color:bisque;
+   font-family: cursive;
+}
